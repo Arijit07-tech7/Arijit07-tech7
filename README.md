@@ -71,13 +71,22 @@ Always learning, always building, and always curious. 🚀
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=dark&hide_border=true"
+    alt="Arijit's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arijit07-tech7&theme=dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Arijit07-tech7&theme=dark&hide_border=true"
+    alt="Arijit's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=dark&hide_border=true"
+    alt="Arijit's Top Languages"
+  />
 </p>
