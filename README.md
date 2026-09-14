@@ -67,12 +67,11 @@ Always learning, always building, and always curious. 🚀
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=dark&hide_border=true"
     alt="Arijit's GitHub Stats"
   />
 </p>
@@ -86,7 +85,7 @@ Always learning, always building, and always curious. 🚀
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=dark&hide_border=true"
     alt="Arijit's Top Languages"
   />
 </p>
