@@ -201,15 +201,30 @@ Exploring technology-driven solutions where software, automation and hardware ca
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit07-tech7&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Arijit07-tech7&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16"
+    height="180"
+    alt="Arijit's GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Arijit07-tech7&theme=tokyonight&hide_border=true&border_radius=16"
+    height="180"
+    alt="Arijit's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=16"
+    height="180"
+    alt="Arijit's Top Languages"
+  />
 </p>
 
 ---
@@ -217,7 +232,11 @@ Exploring technology-driven solutions where software, automation and hardware ca
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit07-tech7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit07-tech7&theme=tokyo-night&hide_border=true&area=true&radius=12"
+    width="100%"
+    alt="Arijit's Contribution Graph"
+  />
 </p>
 
 ---
@@ -226,11 +245,20 @@ Exploring technology-driven solutions where software, automation and hardware ca
 
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/Arijit07-tech7?style=for-the-badge&logo=github&label=STARS"/>
+  <img
+    src="https://img.shields.io/github/followers/Arijit07-tech7?style=for-the-badge&logo=github&label=FOLLOWERS"
+    alt="Followers"
+  />
 
-<img src="https://img.shields.io/github/repos/Arijit07-tech7?style=for-the-badge&logo=github&label=REPOSITORIES"/>
+  <img
+    src="https://img.shields.io/github/stars/Arijit07-tech7?style=for-the-badge&logo=github&label=TOTAL%20STARS"
+    alt="Stars"
+  />
 
-<img src="https://img.shields.io/github/last-commit/Arijit07-tech7/Arijit07-tech7?style=for-the-badge&logo=github&label=LAST%20COMMIT"/>
+  <img
+    src="https://img.shields.io/github/last-commit/Arijit07-tech7/Arijit07-tech7?style=for-the-badge&logo=github&label=PROFILE%20UPDATED"
+    alt="Last Commit"
+  />
 
 </p>
 
