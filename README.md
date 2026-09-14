@@ -1,91 +1,328 @@
 # 👋 Hi, I'm Arijit Gupta
 
-## 💫 About Me
-
-Hey there! 👋 I'm Arijit Gupta, a student passionate about computing, technology, and building real-world projects.
-
-I enjoy exploring different programming languages, developing applications, experimenting with new technologies, and continuously improving my technical skills.
-
-I'm interested in software development, backend development, AI/ML, open-source projects, and solving real-world problems through technology.
-
-Currently, I'm focused on learning, building projects, participating in hackathons, and expanding my development skills.
-
-Always learning, always building, and always curious. 🚀
-
-
-## 🌐 Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arijit07-tech7)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___ariz.___________/)
-
-
-# 💻 Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-
-### Web & Backend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-### Tools & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-<h2>📊 GitHub Stats</h2>
-
 <p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=dark&hide_border=true"
-    alt="Arijit's GitHub Stats"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Technology+Enthusiast;Full+Stack+Developer;AI%2FML+Explorer;Hackathon+Builder;Problem+Solver;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Arijit07-tech7&theme=dark&hide_border=true"
-    alt="Arijit's GitHub Streak"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Arijit07-tech7&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Arijit07-tech7?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub Followers"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+> **Building ideas into working technology — one project at a time.**
+
+Hey! I'm **Arijit Gupta**, a technology enthusiast and student who loves turning ideas into practical, real-world applications.
+
+I'm deeply interested in **software development, full-stack engineering, backend systems, AI/ML, databases, cloud technologies, GIS, and problem solving**.
+
+I enjoy going beyond tutorials — I like **building complete projects, experimenting with different technologies, debugging difficult problems, and learning by actually creating things.**
+
+### 💫 What I'm Into
+
+* 💻 Building real-world software & web applications
+* 🤖 Exploring **AI / ML & intelligent automation**
+* 🌐 Full-stack & backend development
+* 🗄️ Working with **PostgreSQL, MySQL & MongoDB**
+* 🗺️ Exploring **GIS, GeoAI & spatial data**
+* 🐳 Learning containerization with **Docker**
+* ☁️ Exploring cloud platforms & deployment
+* 🏆 Participating in **hackathons & innovation challenges**
+* 🔧 Turning concepts into functional prototypes
+* 📚 Continuously improving my development skills
+
+### 🧠 Currently Exploring
+
+```text
+AI / ML                █████████████████░░░
+Full-Stack Development ██████████████████░░
+Backend Engineering    ████████████████░░░░
+GIS / GeoAI            ███████████████░░░░░
+Cloud & DevOps         █████████████░░░░░░░
+System Design          ███████████░░░░░░░░░
+```
+
+---
+
+# 🧩 What I Build
+
+<div align="center">
+
+|    💻 Software   |      🤖 AI / ML     |     🌍 GeoAI     |   🏆 Hackathons  |
+| :--------------: | :-----------------: | :--------------: | :--------------: |
+| Web Applications | Intelligent Systems | GIS Applications | Rapid Prototypes |
+|   Backend APIs   |   Computer Vision   |   Spatial Data   |  Problem Solving |
+|    Dashboards    |      Automation     |  Mapping Systems |   Team Projects  |
+
+</div>
+
+---
+
+# 🛠️ Tech Arsenal
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,rust" />
+</p>
+
+---
+
+## 🌐 Frontend & Full Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+---
+
+## ⚙️ Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+</p>
+
+**Interested in:** REST APIs • Backend Architecture • Authentication • Data Processing • API Integration
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### PostgreSQL + Spatial Data
+
+I'm particularly interested in using **PostgreSQL/PostGIS** for applications involving:
+
+* 🗺️ Geospatial data
+* 📍 Location-based systems
+* 🌍 GIS applications
+* 📐 Spatial analysis
+* 🏙️ Urban mapping
+
+---
+
+## 🤖 AI / ML & Computer Vision
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+Exploring:
+
+**Machine Learning • Deep Learning • Computer Vision • Image Processing • AI Automation • Object Detection • GeoAI**
+
+---
+
+## 🐳 Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify" />
+</p>
+
+---
+
+# 🏆 Hackathons & Innovation
+
+Hackathons are one of the places where I enjoy learning the most.
+
+I like taking a problem statement, understanding the real-world challenge, designing a solution, and turning the idea into a working prototype within a limited timeframe.
+
+### 🚀 Hackathon Mindset
+
+```text
+Problem
+   ↓
+Research
+   ↓
+Idea
+   ↓
+Architecture
+   ↓
+Prototype
+   ↓
+Testing
+   ↓
+Presentation
+   ↓
+Iteration
+```
+
+### 💡 Areas I've Explored
+
+* 🏙️ Smart Cities
+* 🗺️ GIS & Urban Mapping
+* 🤖 AI-powered Automation
+* 🏥 Healthcare Technology
+* 🚨 Emergency & Safety Systems
+* 🌐 Civic Technology
+* 🌍 Real-world Data Applications
+
+---
+
+# 🌍 Featured Project Areas
+
+### 🗺️ GeoAI & Urban Mapping
+
+Working on concepts involving:
+
+**Drone Imagery → Image Validation → AI Detection → Polygon Generation → GIS → Spatial Database → Interactive Map**
+
+Technologies explored include:
+
+`React.js` • `FastAPI` • `Python` • `OpenCV` • `YOLO` • `TensorFlow/PyTorch` • `PostgreSQL/PostGIS` • `WebGIS`
+
+---
+
+### 🏙️ Civic Technology
+
+Interested in building applications that make everyday public services easier to access through:
+
+**Real Data → Smart Processing → User-Friendly Interface → Transparent Information**
+
+---
+
+### 🏥 Safety & Emergency Systems
+
+Exploring technology-driven solutions where software, automation and hardware can work together to improve safety and response.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit07-tech7&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=dark&hide_border=true"
-    alt="Arijit's Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit07-tech7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# 🔥 GitHub Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/Arijit07-tech7?style=for-the-badge&logo=github&label=STARS"/>
+
+<img src="https://img.shields.io/github/repos/Arijit07-tech7?style=for-the-badge&logo=github&label=REPOSITORIES"/>
+
+<img src="https://img.shields.io/github/last-commit/Arijit07-tech7/Arijit07-tech7?style=for-the-badge&logo=github&label=LAST%20COMMIT"/>
+
+</p>
+
+---
+
+# 🎯 My Development Journey
+
+```text
+                 ┌─────────────────────┐
+                 │       LEARN         │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       BUILD         │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │      EXPERIMENT     │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │     HACKATHONS      │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       IMPROVE       │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       REPEAT        │
+                 └─────────────────────┘
+```
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Full-Stack Development
+* Backend Architecture
+* AI / Machine Learning
+* Computer Vision
+* GeoAI & GIS
+* PostgreSQL & PostGIS
+* Docker & DevOps
+* Cloud Technologies
+* System Design
+* Better Software Engineering Practices
+
+---
+
+# 💬 Developer Philosophy
+
+> **"Don't just learn the technology. Build something with it."**
+
+I believe the best way to learn technology is to **build, break, debug, rebuild, and keep improving.**
+
+Every project is an opportunity to learn something new.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Arijit07-tech7">
+  <img src="https://img.shields.io/badge/GitHub-Arijit07--tech7-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/arijit-gupta-103b99363">
+  <img src="https://img.shields.io/badge/LinkedIn-Arijit%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/___ariz.___________/">
+  <img src="https://img.shields.io/badge/Instagram-___ariz.___________-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Beyond Code
+
+```text
+🏆 Hackathons
+💡 New Ideas
+🧠 Continuous Learning
+🔧 Building Projects
+🌍 Solving Real Problems
+🚀 Exploring Technology
+```
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00
