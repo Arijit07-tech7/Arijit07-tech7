@@ -204,39 +204,37 @@ Exploring technology-driven solutions where software, automation and hardware ca
 ---
 
 ---
-
-# 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-
-<a href="https://github.com/Arijit07-tech7">
-<img src="https://github-readme-stats.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="Arijit's GitHub Stats"/>
-</a>
-
-<a href="https://streak-stats.demolab.com/?user=Arijit07-tech7">
-<img src="https://streak-stats.demolab.com/?user=Arijit07-tech7&theme=tokyonight&hide_border=true" width="49%" alt="Arijit's GitHub Streak"/>
-</a>
-
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+    alt="Arijit's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Arijit07-tech7">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Arijit's Top Languages"/>
-</a>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=Arijit07-tech7&theme=dark&hide_border=true"
+    alt="Arijit's GitHub Streak"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arijit07-tech7&layout=compact&theme=dark&hide_border=true&langs_count=10"
+    alt="Arijit's Top Languages"
+  />
+</p>
 
-# 📈 Contribution Graph
+<h2>📈 Contribution Graph</h2>
 
 <p align="center">
-
-<a href="https://github.com/Arijit07-tech7">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit07-tech7&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Arijit's Contribution Graph"/>
-</a>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit07-tech7&theme=github-dark&hide_border=true&area=true"
+    alt="Arijit's Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
