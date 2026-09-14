@@ -227,15 +227,33 @@ Exploring technology-driven solutions where software, automation and hardware ca
   />
 </p>
 
-<h2>📈 Contribution Graph</h2>
+<hr>
+
+<h2>📈 Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit07-tech7&theme=github-dark&hide_border=true&area=true"
-    alt="Arijit's Contribution Graph"
-    width="100%"
-  />
+  <a href="https://github.com/Arijit07-tech7">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=Arijit07-tech7&show_icons=true&theme=dark&hide_border=true"
+      alt="Arijit's GitHub Activity"
+    />
+  </a>
 </p>
+
+<p align="center">
+  <b>🔥 Consistency • 💻 Contributions • 🚀 Continuous Building</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arijit07-tech7">
+    <img
+      src="https://img.shields.io/badge/View%20Full%20Contribution%20History-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub Contributions"
+    />
+  </a>
+</p>
+
+<hr>
 
 ---
 
